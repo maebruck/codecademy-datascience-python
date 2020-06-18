@@ -9,6 +9,8 @@
 1. Python Code Challenges: Functions
 1. Advanced Python Code Challenges: Functions
 1. Getting Ready for Physics Class
+1. Python Code Challenges: Control Flow
+1. Advanced Python Code Challenges: Control Flow
 
 ### "Independent Projects"
 
