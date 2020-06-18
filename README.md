@@ -11,6 +11,7 @@
 1. Getting Ready for Physics Class
 1. Python Code Challenges: Control Flow
 1. Advanced Python Code Challenges: Control Flow
+1. Sal's Shipping
 
 ### "Independent Projects"
 
