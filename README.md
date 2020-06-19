@@ -13,5 +13,9 @@
 1. Advanced Python Code Challenges: Control Flow
 1. Sal's Shipping
 
+### 02: Python lists and loops
+1. Python Gradebook
+
+
 ### "Independent Projects"
 
