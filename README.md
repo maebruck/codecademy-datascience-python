@@ -12,6 +12,7 @@
 1. Python Code Challenges: Control Flow
 1. Advanced Python Code Challenges: Control Flow
 1. Sal's Shipping
+1. Games of Chance (*Apply* project)
 
 ### 02: Python lists and loops
 1. Python Gradebook
@@ -20,4 +21,4 @@
 1. Advanced Python Code Challenges: Lists
 
 ### "Independent Projects"
-
+*none so far*
