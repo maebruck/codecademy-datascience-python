@@ -16,6 +16,7 @@
 ### 02: Python lists and loops
 1. Python Gradebook
 1. Len's Slice
+1. Python Code Challenges: Lists
 
 ### "Independent Projects"
 
