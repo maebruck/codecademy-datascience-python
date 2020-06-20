@@ -19,6 +19,7 @@
 1. Len's Slice
 1. Python Code Challenges: Lists
 1. Advanced Python Code Challenges: Lists
+1. Carly's Clippers
 
 ### "Independent Projects"
 *none so far*
