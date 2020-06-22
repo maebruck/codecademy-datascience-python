@@ -25,5 +25,8 @@
 1. Code Challenges: List Comprehensions
 1. Code Challenges: Lambda Functions
 
+### 04: ~~Cumulative Python Project~~
+1. ~~Reggie's Linear Regression~~
+
 ### "Independent Projects"
 *none so far*
