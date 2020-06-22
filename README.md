@@ -20,7 +20,10 @@
 1. Python Code Challenges: Lists
 1. Advanced Python Code Challenges: Lists
 1. Carly's Clippers
+
+### 03: Advanced Python
 1. Code Challenges: List Comprehensions
+1. Code Challenges: Lambda Functions
 
 ### "Independent Projects"
 *none so far*
