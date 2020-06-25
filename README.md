@@ -28,5 +28,8 @@
 ### 04: ~~Cumulative Python Project~~
 1. ~~Reggie's Linear Regression~~
 
+### 05: Learn Data Analysis with Pandas
+1. 
+
 ### "Independent Projects"
 *none so far*
