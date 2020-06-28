@@ -29,7 +29,8 @@
 1. ~~Reggie's Linear Regression~~
 
 ### 05: Learn Data Analysis with Pandas
-1. 
+1. Petal Power Inventory
+1. A/B Testing for ShoeFly.com
 
 ### "Independent Projects"
 *none so far*
