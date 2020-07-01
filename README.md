@@ -32,5 +32,8 @@
 1. Petal Power Inventory
 1. A/B Testing for ShoeFly.com
 
+### 06: Data Visualisation with MatPlotLib
+1. Sublime Limes
+
 ### "Independent Projects"
 *none so far*
